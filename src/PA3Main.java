@@ -28,6 +28,7 @@ public class PA3Main {
                     sortedkeys.get(i) + " costs $"
                             + nameandcost.get(sortedkeys.get(i)));
         }
+
         System.out.println("");
         Integer uniquepastry = 0;
         Integer totalcost = 0;
